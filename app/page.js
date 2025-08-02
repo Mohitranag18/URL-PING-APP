@@ -243,7 +243,7 @@ export default function Home() {
             <div>
               <h3 className="font-semibold text-blue-900 mb-1">Automated Monitoring</h3>
               <p className="text-blue-800 text-sm leading-relaxed">
-                URLs are automatically pinged every 5 minutes when deployed to Vercel to prevent cold starts.
+                URLs are automatically pinged every 5 minutes to prevent cold starts.
               </p>
             </div>
           </div>
